@@ -1,0 +1,23 @@
+body {
+    font-family: "Open Sans", Arial, Helvetica;
+    font-style:italic;
+    font-variant:normal;
+    font-weight:bold;
+    font-size: 12px;
+    text-decoration: overline;
+    text-align:center;
+    text: indent 1.6em;
+    text-transform:lowercase
+    
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+.bold-text:hover {
+    color: #9630af;
+    background-color: #f0f0f0;
+    transform: scale(1.02);
+    transition: all 0.3s ease;}
